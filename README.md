@@ -1,2 +1,2 @@
 # PYTHON PRACTICE
- This Repo includes all the projectsand practice  from the course 
+ This Repo includes all the projects and practice exercise in python 
